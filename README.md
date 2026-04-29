@@ -46,7 +46,7 @@ I am a **Systems Engineer** at **Kalshi**, specializing at the intersection of h
 ### 📲 Contact
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Blakelawga)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blake)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Blakelawga)
 
 ---
 
