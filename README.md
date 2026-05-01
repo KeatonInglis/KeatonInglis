@@ -50,11 +50,4 @@ I am a **Systems Engineer** at **Kalshi**, specializing at the intersection of h
 
 ---
 
-### 🪙 $TERESSA Miniproject
-
-coming soon...
-
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkHq-NK3tPtKWQUPZpdILSwyR7Xd3v1kglCg&s" width="200">
-
----
 > **"Manual intervention is a bug. Autonomy is the feature."**
